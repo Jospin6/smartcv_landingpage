@@ -140,16 +140,16 @@ export default function ComingSoonPage() {
                     </form>
 
                     <div className="mt-6 flex justify-center gap-4 text-gray-200">
-                        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://web.facebook.com/profile.php?id=61575196685155" target="_blank" rel="noopener noreferrer">
                             <Facebook className="hover:text-yellow-400 transition" />
                         </a>
-                        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://x.com/JospinNdagano" target="_blank" rel="noopener noreferrer">
                             <Twitter className="hover:text-yellow-400 transition" />
                         </a>
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/company/nuruai/?viewAsMember=true" target="_blank" rel="noopener noreferrer">
                             <Linkedin className="hover:text-yellow-400 transition" />
                         </a>
-                        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.instagram.com/nuruai4" target="_blank" rel="noopener noreferrer">
                             <Instagram className="hover:text-yellow-400 transition" />
                         </a>
                     </div>

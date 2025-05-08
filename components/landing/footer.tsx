@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FileText, GithubIcon, TwitterIcon, LinkedinIcon, InstagramIcon, HeartIcon } from "lucide-react";
+import { FileText, GithubIcon, TwitterIcon, LinkedinIcon, InstagramIcon, HeartIcon, Facebook } from "lucide-react";
 
 const footerLinks = [
   {
@@ -49,17 +49,17 @@ export function Footer() {
               Professional resume and cover letter builder that helps you land your dream job faster with AI-powered tools and expert-designed templates.
             </p>
             <div className="flex space-x-4">
-              <Link href="#" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
+              <Link href="https://x.com/JospinNdagano" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
                 <TwitterIcon className="h-5 w-5" />
               </Link>
-              <Link href="#" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
+              <Link href="https://www.linkedin.com/company/nuruai/?viewAsMember=true" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
                 <LinkedinIcon className="h-5 w-5" />
               </Link>
-              <Link href="#" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
+              <Link href="https://www.instagram.com/nuruai4" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
                 <InstagramIcon className="h-5 w-5" />
               </Link>
-              <Link href="#" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
-                <GithubIcon className="h-5 w-5" />
+              <Link href="https://web.facebook.com/profile.php?id=61575196685155" className="text-gray-500 hover:text-blue-600 dark:text-gray-400 dark:hover:text-blue-400">
+                <Facebook className="h-5 w-5" />
               </Link>
             </div>
           </div>
