@@ -43,7 +43,7 @@ export function Footer() {
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center space-x-2 mb-6">
               <FileText className="h-8 w-8 text-blue-600" />
-              <span className="font-bold text-xl">SmartCV</span>
+              <span className="font-bold text-xl">CVComet</span>
             </Link>
             <p className="text-gray-600 mb-6 dark:text-gray-300">
               Professional resume and cover letter builder that helps you land your dream job faster with AI-powered tools and expert-designed templates.

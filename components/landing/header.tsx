@@ -41,7 +41,7 @@ export function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
           <FileText className="h-8 w-8 text-blue-600" />
-          <span className="font-bold text-xl">SmartCV</span>
+          <span className="font-bold text-xl">CVComet</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -59,12 +59,12 @@ export function Header() {
 
         {/* CTA Buttons */}
         <div className="hidden md:flex items-center space-x-4">
-          <Link href={"/get-started"}>
+          <Link href={"/https://www.cvcomet.com"}>
             <Button variant="outline" size="sm">
               Sign In
             </Button>
           </Link>
-          <Link href={"/get-started"}>
+          <Link href={"/https://www.cvcomet.com"}>
             <Button size="sm">
               Get Started
             </Button>
