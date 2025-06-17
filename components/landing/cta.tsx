@@ -30,7 +30,7 @@ export function CTA() {
             Start creating your professional CV and cover letter today.
             Join job seekers who are already boosting their career prospects.
           </p>
-          <Link href="/https://www.cvcomet.com">
+          <Link href="https://www.cvcomet.com">
             <Button
               size="lg"
               className="group bg-white text-blue-600 hover:bg-blue-50 dark:bg-gray-900 dark:text-white dark:hover:bg-gray-800"
@@ -46,4 +46,4 @@ export function CTA() {
       </div>
     </section>
   );
-}
+} 

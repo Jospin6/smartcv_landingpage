@@ -59,12 +59,12 @@ export function Header() {
 
         {/* CTA Buttons */}
         <div className="hidden md:flex items-center space-x-4">
-          <Link href={"/https://www.cvcomet.com"}>
+          <Link href={"https://www.cvcomet.com"}>
             <Button variant="outline" size="sm">
               Sign In
             </Button>
           </Link>
-          <Link href={"/https://www.cvcomet.com"}>
+          <Link href={"https://www.cvcomet.com"}>
             <Button size="sm">
               Get Started
             </Button>

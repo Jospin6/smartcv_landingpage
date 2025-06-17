@@ -157,7 +157,7 @@ function PricingCard({ plan, index }: PricingCardProps) {
       </div>
 
       <div className="p-6 md:p-8 pt-0">
-        <Link href={"/get-started"}>
+        <Link href={"https://www.cvcomet.com"}>
           <Button
             className={cn(
               "w-full",
